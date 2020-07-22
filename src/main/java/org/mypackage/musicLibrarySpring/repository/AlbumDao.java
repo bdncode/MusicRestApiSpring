@@ -1,4 +1,4 @@
-package org.mypackage.musicLibrarySpring;
+package org.mypackage.musicLibrarySpring.repository;
 
 import org.mypackage.musicLibrarySpring.model.Album;
 import org.springframework.data.repository.CrudRepository;

@@ -5,11 +5,7 @@ import javax.persistence.*;
 
 @Entity
 @Table(name = "Artists")
-@Getter
-@Setter
-@NoArgsConstructor
-@AllArgsConstructor
-@ToString
+@Data
 
 public class Artist {
     @Id
